@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "小林",
+    "intro": "趕著回去開會的工程師",
+    "budget": 120,
+    "wants": ["招牌鍋貼", "酸辣湯"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 6,
+    "lines": {
+      "bought": "趕快吃完去開會",
+      "hated_on_menu": "那個我不吃，下次",
+      "not_on_menu": "沒有我要的啊",
+      "sold_out": "賣完了？來不及了",
+      "too_expensive": "午餐這價錢太兇"
+    }
+  },
+  {
+    "name": "阿美",
+    "intro": "準時下班的行政同事",
+    "budget": 100,
+    "wants": ["玉米鍋貼", "紅茶"],
+    "hates": "酸辣湯",
+    "days": [1, 2, 3, 4, 5],
+    "count": 6,
+    "lines": {
+      "bought": "同事推薦果然好吃",
+      "hated_on_menu": "有酸辣湯，我先走",
+      "not_on_menu": "想吃的都沒有",
+      "sold_out": "怎麼這麼早賣完",
+      "too_expensive": "這個月預算不夠"
+    }
+  },
+  {
+    "name": "大雄",
+    "intro": "愛請客的業務",
+    "budget": 150,
+    "wants": ["招牌鍋貼", "玉米鍋貼"],
+    "hates": "紅茶",
+    "days": [1, 2, 3, 4, 5],
+    "count": 6,
+    "lines": {
+      "bought": "今天我請客！",
+      "hated_on_menu": "有紅茶？我不進去",
+      "not_on_menu": "沒有？換一家",
+      "sold_out": "賣完了，真可惜",
+      "too_expensive": "請客也要看價錢"
+    }
+  },
+  {
+    "name": "小芸",
+    "intro": "午休想吃輕食的設計師",
+    "budget": 110,
+    "wants": ["酸辣湯", "豆漿"],
+    "hates": null,
+    "days": [1, 2, 3, 4, 5],
+    "count": 6,
+    "lines": {
+      "bought": "清爽又剛好",
+      "hated_on_menu": "看到我不要的就算了",
+      "not_on_menu": "菜單怎麼沒有",
+      "sold_out": "沒了，午休白等",
+      "too_expensive": "輕食怎麼這麼貴"
+    }
+  },
+  {
+    "name": "老陳",
+    "intro": "固定時間報到的主管",
+    "budget": 130,
+    "wants": ["招牌鍋貼", "豆漿"],
+    "hates": "玉米鍋貼",
+    "days": [1, 2, 3, 4, 5],
+    "count": 6,
+    "lines": {
+      "bought": "老樣子，味道穩",
+      "hated_on_menu": "有玉米，我不來了",
+      "not_on_menu": "沒上架，下次再來",
+      "sold_out": "我的份被搶走了",
+      "too_expensive": "價錢要合理一點"
+    }
+  }
+]
